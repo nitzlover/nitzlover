@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=8A0303&label=@emotionswaggage&labelColor=black&color=8A0303)](https://t.me/emotionswaggage)
 ![Discord](https://img.shields.io/discord/1227393018596687983?style=for-the-badge&logo=Discord&logoColor=8A0303&label=LOVER%20CLXN&labelColor=black&color=8A0303&link=https%3A%2F%2Fdiscord.gg%2FNFJhpttC6E)
 
-Backend Dev and RE, owner of LOVER CLXN
+fullstack dev and RE, owner of LOVER CLXN
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
