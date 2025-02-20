@@ -16,11 +16,11 @@ I'm interested in Reverse Engineering and Malware.
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,html,css,php,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,html,css,php&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,githubactions,docker,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,docker&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,visualstudiocode,atom&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,atom&perline=7" />
     <br>
   </p>
 </details>
