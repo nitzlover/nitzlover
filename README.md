@@ -29,8 +29,8 @@ I'm interested in Reverse Engineering and Malware.
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitzlover&theme=dark&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=nitzlover&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
   </p>
 </details>
