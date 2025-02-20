@@ -1,4 +1,4 @@
-<h1 align="center"> !ниц </h1>
+<h1 align="center"> тут ниц кст да </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
