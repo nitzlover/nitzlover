@@ -18,7 +18,7 @@ fullstack dev, owner of LOVER CLXN
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=linux,docker&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,atom&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,atom,vim,sublime,putty&perline=7" />
     <br>
   </p>
 </details>
