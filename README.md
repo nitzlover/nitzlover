@@ -5,7 +5,7 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=8A0303&label=@emotionswaggage&labelColor=black&color=8A0303)](https://t.me/emotionswaggage)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=8A0303&label=@pointofd3ath&labelColor=black&color=8A0303)](https://t.me/pointofd3ath)
 ![Discord](https://img.shields.io/discord/1227393018596687983?style=for-the-badge&logo=Discord&logoColor=8A0303&label=LOVER%20CLXN&labelColor=black&color=8A0303&link=https%3A%2F%2Fdiscord.gg%2FNFJhpttC6E)
 
 fullstack dev, owner of LOVER CLXN
